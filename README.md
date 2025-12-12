@@ -13,7 +13,7 @@
 Project Screen Shot
 [![image.png](https://i.postimg.cc/c45dpbFK/image.png)](https://postimg.cc/crwqYXyZ)
 
-**[🔴 Live Demo](https://your-netlify-link-here.app)** *(Don't forget to add your Netlify link here!)*
+[🔴 Live Demo](https://raunakongithub.github.io/Moder-agency-slider/)
 
 ---
 
